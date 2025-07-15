@@ -26,10 +26,10 @@ _Deployed using Netlify._
 ![A&h CAR BOOKING SECTION](https://github.com/ayushshah-py/A-H-TOURS-AND-TRAVELS/blob/main/JAYMIN%20WEBSITE/A&H%20CAR%20BOOKING%20SECTION.jpg?raw=true)
 
 ### 👤 Login Page  
-![A&H LOGIN PAGE]([images/login.png](https://github.com/ayushshah-py/A-H-TOURS-AND-TRAVELS/blob/main/JAYMIN%20WEBSITE/A&H%20LOGIN%20PAGE.jpg?raw=true))
+![A&H LOGIN PAGE](https://github.com/ayushshah-py/A-H-TOURS-AND-TRAVELS/blob/main/JAYMIN%20WEBSITE/A&H%20LOGIN%20PAGE.jpg?raw=true)
 
 ### 📍 Contact Page with Map  
-![A&H CONTACT PAGE WITH MAP]([images/contact.png](https://github.com/ayushshah-py/A-H-TOURS-AND-TRAVELS/blob/main/JAYMIN%20WEBSITE/A&H%20CONTACT%20PAGE%20WITH%20MAP.jpg?raw=true))
+![A&H CONTACT PAGE WITH MAP](https://github.com/ayushshah-py/A-H-TOURS-AND-TRAVELS/blob/main/JAYMIN%20WEBSITE/A&H%20CONTACT%20PAGE%20WITH%20MAP.jpg?raw=true)
 
 ---
 # 📌 Description
