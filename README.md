@@ -9,7 +9,7 @@ This project demonstrates frontend best practices and is ideal for showcasing yo
 ## 🔗 Live Demo
 
 Access the live site here:  
-➡️ **[https://poetic-muffin-0c0307.netlify.app](https://poetic-muffin-0c0307.netlify.app)**  
+➡️ **[https://thunderous-naiad-273d7f.netlify.app/](https://thunderous-naiad-273d7f.netlify.app/)**  
 _Deployed using Netlify._
 
 ## 🖼️ Screenshots
@@ -17,22 +17,21 @@ _Deployed using Netlify._
 > Replace the image URLs below with actual screenshot paths after uploading them in the `images/` folder or your repo.
 
 ### 🏠 Homepage  
-![Homepage Screenshot](images/homepage.png)
+![A&H HOMEPAGE](https://github.com/ayushshah-py/A-H-TOURS-AND-TRAVELS/blob/main/JAYMIN%20WEBSITE/A&H%20HOMEPAGE%20.PNG?raw=true)
 
 ### 📄 Services Page  
-![Services Screenshot](images/services.png)
+![A&H Services](https://github.com/ayushshah-py/A-H-TOURS-AND-TRAVELS/blob/main/JAYMIN%20WEBSITE/A&H%20SERVICE.jpg?raw=true)
 
 ### 🚗 Car Booking Section  
-![Cars Screenshot](images/cars.png)
+![A&h CAR BOOKING SECTION](https://github.com/ayushshah-py/A-H-TOURS-AND-TRAVELS/blob/main/JAYMIN%20WEBSITE/A&H%20CAR%20BOOKING%20SECTION.jpg?raw=true)
 
 ### 👤 Login Page  
-![Login Screenshot](images/login.png)
+![A&H LOGIN PAGE]([images/login.png](https://github.com/ayushshah-py/A-H-TOURS-AND-TRAVELS/blob/main/JAYMIN%20WEBSITE/A&H%20LOGIN%20PAGE.jpg?raw=true))
 
 ### 📍 Contact Page with Map  
-![Contact Screenshot](images/contact.png)
+![A&H CONTACT PAGE WITH MAP]([images/contact.png](https://github.com/ayushshah-py/A-H-TOURS-AND-TRAVELS/blob/main/JAYMIN%20WEBSITE/A&H%20CONTACT%20PAGE%20WITH%20MAP.jpg?raw=true))
 
 ---
-
 # 📌 Description
 
 A&H Tours and Travels is designed to represent a real-world tour and travel agency website. It includes visual and interactive components like:
